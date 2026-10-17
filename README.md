@@ -10,7 +10,7 @@ building it right now, its a screensharing automatic tool for games
 
 big project, takes most of my time these days. very active on it
 
-https://silence.lat/
+private for now
 
 ## apart
 
@@ -31,6 +31,10 @@ java, rust, js. whatever the thing needs
 <img src="https://github-readme-stats.vercel.app/api?username=fxledev&show_icons=true&hide_border=true&count_private=true" alt="github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxledev&layout=compact&hide_border=true" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=fxledev&hide_border=true" alt="streak stats"/>
+
+## commit map
+
+<img src="https://ghchart.rshah.org/fxledev" alt="commit heatmap" width="100%"/>
 
 ## lets talk
 
