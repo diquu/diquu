@@ -45,4 +45,6 @@ java, rust, js. whatever the thing needs
 
 discord diquuuu
 
+<img src="https://lanyard.cnrad.dev/api/1345619454414815342" alt="discord live"/>
+
 <img src="https://img.shields.io/badge/discord-diquuuu-5865F2?logo=discord&logoColor=white" alt="discord badge"/>
