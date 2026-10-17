@@ -1,4 +1,4 @@
-building [Silence AC](https://silence.lat/), an anticheat
+building [Silence AC](https://silence.lat/), an screensharing automatic tool for games
 
 big project, takes most of my time these days. very active on it
 
