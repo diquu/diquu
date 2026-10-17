@@ -17,7 +17,7 @@ https://silence.lat/
 apart from that i code when im bored, small clients, tools, random experiments
 
 - [nekoclient-old-source](https://github.com/fxledev/nekoclient-old-source): old client source, java
-- [goblin](https://github.com/fxledev/goblin): binary parsing crate, rust
+- [goblin](https://github.com/fxledev/goblin): binary parsing crate, (fork)
 - [spicetify-gpt](https://github.com/fxledev/spicetify-gpt): spotify client customizer, fork not finished
 
 ## stack
