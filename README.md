@@ -36,6 +36,11 @@ java, rust, js. whatever the thing needs
 
 <img src="https://ghchart.rshah.org/fxledev" alt="commit heatmap" width="100%"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fxledev/fxledev/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/fxledev/fxledev/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+</picture>
+
 ## lets talk
 
 discord diquuuu
