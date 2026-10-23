@@ -30,7 +30,7 @@ java, rust, js. whatever the thing needs
 
 <img src="https://github-readme-stats.vercel.app/api?username=diquu&show_icons=true&hide_border=true&count_private=true" alt="github stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diquu&layout=compact&hide_border=true" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=fxledev&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=diquu&hide_border=true" alt="streak stats"/>
 
 ## commit map
 
