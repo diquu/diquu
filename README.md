@@ -4,21 +4,9 @@
 
 </div>
 
-## silence ac
-
-building it right now, its a screensharing automatic tool for games
-
-big project, takes most of my time these days. very active on it
-
-private for now
-
 ## apart
 
-apart from that i code when im bored, small clients, tools, random experiments
-
-- [nekoclient-old-source](https://github.com/fxledev/nekoclient-old-source): old client source, java
-- [goblin](https://github.com/fxledev/goblin): binary parsing crate, rust
-- [spicetify-gpt](https://github.com/fxledev/spicetify-gpt): spotify client customizer, fork not finished
+i code when im bored, small clients, tools, random experiments
 
 ## stack
 
